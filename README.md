@@ -1,5 +1,5 @@
 ## arcgis-basic-geojsonlayer
-ArcGIS JS API v4.11 has a new GeoJSONLayer. Using it to connect to NYC Open Data using SODA API.
+_ArcGIS JS API v4.11 has a new GeoJSONLayer. Using it to connect to NYC Open Data using SODA API._
 
 #### API doc for GeoJSONLayer class:
 https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-GeoJSONLayer.html
