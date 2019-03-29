@@ -13,3 +13,6 @@ https://dev.socrata.com/consumers/getting-started.html
 
 ### Bike Lane data used in the map:
 https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7
+
+### Map
+<img src="https://github.com/JimBarry/arcgis-basic-geojsonlayer/blob/master/arcgis-geojsonlayer.jpg">
