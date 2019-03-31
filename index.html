@@ -2,9 +2,12 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-    
-    <!-- Jim Barry, jbarry@esri.com, 28 March 2019 -->
-    
+<!-- 
+***************************************************** 
+Jim Barry jbarry@esri.com 28 March 2019 tw: @JimBarry
+https://github.com/JimBarry/arcgis-basic-geojsonlayer
+*****************************************************
+-->    
     <title>Basic GeoJSONLayer from NYC Open Data site</title>
 
     <link rel="stylesheet" href="https://js.arcgis.com/4.11/esri/themes/light/main.css" />
@@ -59,12 +62,12 @@
         });
         
         // GeoJSON layer - the URL below is from the SODA API config'd to output GeoJSON
-        var flGeoJSON = new GeoJSONLayer({
+        var gjlGeoJSON = new GeoJSONLayer({
           url: "https://data.cityofnewyork.us/resource/cc5c-sm6z.geojson?$limit=20000",
           title: "NYC Bike Lanes - GeoJSON from NYC Open Data site",
           renderer: sr
         });
-        map.add(flGeoJSON);
+        map.add(gjlGeoJSON);
 
         // NYC bike lanes - this is a hosted feature layer on ArcGIS Online
         var flBikeLanes = new FeatureLayer({
