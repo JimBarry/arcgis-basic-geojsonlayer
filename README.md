@@ -14,7 +14,7 @@ https://dev.socrata.com/consumers/getting-started.html
 #### Bike Lane data used in the map:
 https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7
 
-#### Codepen version of it:
+#### Codepen version of this map, web app:
 https://codepen.io/JimBarry/pen/YgmLEz
 _(might not work if too many people are hitting it at the moment)_
 
