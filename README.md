@@ -15,7 +15,7 @@ https://dev.socrata.com/consumers/getting-started.html
 https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7
 
 #### Codepen version of this map, web app:
-https://codepen.io/JimBarry/pen/YgmLEz (geojson from socrata open data site)
+https://codepen.io/JimBarry/pen/YgmLEz (geojson from socrata open data site)<br>
 https://codepen.io/JimBarry/pen/YMEpbO (geojson from arcgis open data site)
 
 ### Map
