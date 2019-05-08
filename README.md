@@ -16,7 +16,7 @@ https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7
 
 #### Codepen versions of this map, web app:
 https://codepen.io/JimBarry/pen/YgmLEz (geojson from a socrata-based open data site)<br>
-https://codepen.io/JimBarry/pen/YMEpbO (geojson from an arcgis-based open data site)
+https://codepen.io/JimBarry/pen/RmWQbP (geojson from an arcgis-based open data site)
 
 ### Map
 <img src="https://github.com/JimBarry/arcgis-basic-geojsonlayer/blob/master/arcgis-geojsonlayer.jpg">
