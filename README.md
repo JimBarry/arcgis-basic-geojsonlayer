@@ -18,5 +18,8 @@ https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7
 https://codepen.io/JimBarry/pen/YgmLEz (geojson from a socrata-based open data site)<br>
 https://codepen.io/JimBarry/pen/RmWQbP (geojson from an arcgis-based open data site)
 
+### Comparing HFL with GJL from ArcGIS Hub
+https://jimbarry.github.io/geojsonlayer-arcgis-hub/
+
 ### Map
 <img src="https://github.com/JimBarry/arcgis-basic-geojsonlayer/blob/master/arcgis-geojsonlayer.jpg">
